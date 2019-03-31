@@ -1,4 +1,4 @@
-#GitKraken
-##NetCentric HW2
-###README.md push
+# GitKraken
+## NetCentric HW2
+### README.md push
 
